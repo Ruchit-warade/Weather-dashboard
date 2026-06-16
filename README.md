@@ -47,6 +47,9 @@ pip install -r requirements.txt
 ```bash
 python WeatherAPI.py
 ```
+## Screenshot
+
+![Weather App Output](Screenshots/output.png)
 
 ## Project Structure
 
@@ -56,7 +59,9 @@ weather-app/
 ├── WeatherAPI.py
 ├── countrycodes.json
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── Screenshots
+     └── output.png
 ```
 
 ## License
