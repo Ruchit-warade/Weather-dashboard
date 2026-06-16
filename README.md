@@ -28,7 +28,7 @@ A simple Python-based weather application that fetches and displays current weat
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Ruchit-warade/weather-dashboard.git
+git clone https://github.com/Ruchit-warade/Weather-dashboard.git
 cd weather-app
 ```
 
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 6. Run the application
 
 ```bash
-python weather.py
+python WeatherAPI.py
 ```
 
 ## Project Structure
@@ -53,7 +53,8 @@ python weather.py
 ```text
 weather-app/
 │
-├── weather.py
+├── WeatherAPI.py
+├── countrycodes.json
 ├── README.md
 └── requirements.txt
 ```
